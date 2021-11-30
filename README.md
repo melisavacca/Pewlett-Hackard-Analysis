@@ -33,5 +33,5 @@ employees per title, and identifying employees who are eligible to participate i
 
 ![image](https://user-images.githubusercontent.com/64279232/129270020-7c3e3812-8c49-4a68-b52a-2ffe84f77511.png)
 
-2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard Employees.
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard Employees?
 There are 1549 employees eligible for the mentorship program and way more positions to be filled. 
